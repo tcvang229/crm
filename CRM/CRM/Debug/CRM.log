@@ -1,0 +1,5 @@
+﻿  CRM.cpp
+D:\tcvan\Documents\cs371\CRM\CRM\CRM\CRM.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+D:\tcvan\Documents\cs371\CRM\CRM\CRM\CRM.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+D:\tcvan\Documents\cs371\CRM\CRM\CRM\CRM.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+  CRM.vcxproj -> D:\tcvan\Documents\cs371\CRM\CRM\Debug\CRM.exe
